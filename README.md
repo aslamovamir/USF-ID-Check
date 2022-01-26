@@ -1,0 +1,2 @@
+# USF-ID-Check
+A Windows Forms Application written in C# with .NET framework. The program checks the USF ID letter of the user and determines if the USF person is admitted or rejected to a party. The acceptance is dependent on the 'U' ID letter, which indicates the USF person is a USF student, while the rejection status depends on the 'F' ID letter, which indicates the USF person is a USF faculty member.
